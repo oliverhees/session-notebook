@@ -7,3 +7,7 @@
 - git pull (get update from repository to local)
 - git switch -c (create branch)
 - git clone (clone a repo to local)
+
+#1 Create Branch
+
+- git switch -c (create branch and switch to it)
